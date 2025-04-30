@@ -18,6 +18,11 @@ The dataset consists of **self-collected leaf images**, scanned manually using a
 
 ### Leaves used in this project:
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f02fcde-0ba7-46eb-9075-1d68dfb3b1ad" alt="Cleistocalyx operculatus" width="300"/>
+  <br>
+  <b>Cleistocalyx operculatus</b>
+</p>
 #### 1. *Cleistocalyx operculatus*  
 ![Cleistocalyx operculatus02](https://github.com/user-attachments/assets/5f02fcde-0ba7-46eb-9075-1d68dfb3b1ad)
 
