@@ -25,13 +25,6 @@ The dataset consists of **self-collected leaf images**, scanned manually using a
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f02fcde-0ba7-46eb-9075-1d68dfb3b1ad" alt="Cleistocalyx operculatus" width="300"/>
-  <br>
-  <b>Cleistocalyx operculatus</b>
-</p>
-
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/641f81c1-13d1-4ad3-964a-032cbafae100" alt="Cordyline fruticosa" width="300"/>
   <br>
   <b>Cordyline fruticosa</b>
